@@ -14,12 +14,11 @@ To fulfill the requirements of the Google Advanced Data Analytics certification 
 
 ### Courses Completed:
 
-1. Foundations of Data Science: Introduction to foundational concepts.
-2. Get started with Python: Basics of Python programming for data analysis.
-3. Go Beyond the Numbers: Translate Data into Insights: Advanced techniques for deriving insights from data.
-4. The power of statistics: Statistical methods for analysis and interpretation.
-5. Regression Analysis: Applied regression analysis techniques to model and analyze complex data relationships.
-6. Machine Learning Fundamentals: Introduction to machine learning algorithms using XGBoost and Random Forest with Cross Validation.
+1. Get started with Python: Basics of Python programming for data analysis.
+2. Go Beyond the Numbers: Translate Data into Insights: Advanced techniques for deriving insights from data.
+3. The power of statistics: Statistical methods for analysis and interpretation.
+4. Regression Analysis: Applied regression analysis techniques to model and analyze complex data relationships.
+5. Machine Learning Fundamentals: Introduction to machine learning algorithms using XGBoost and Random Forest with Cross Validation.
 
 ### Projects:
 
@@ -55,13 +54,31 @@ Outcome: Acquired foundational knowledge of machine learning algorithms and tech
 
 ### Data Dictionary:
 
-The projects utilize the tiktok_dataset.csv dataset, containing synthetic data created for this purpose in partnership with TikTok. For detailed column descriptions, refer to the data dictionary.
+The dataset contains 19,383 rows and 12 columns:
+
+| Column Name             | Type   | Description                                                                                     |
+|-------------------------|--------|-------------------------------------------------------------------------------------------------|
+| #                       | int    | TikTok assigned number for video with claim/opinion.                                             |
+| claim_status            | obj    | Whether the published video has been identified as an "opinion" or a "claim."                    |
+| video_id                | int    | Random identifying number assigned to video upon publication on TikTok.                           |
+| video_duration_sec      | int    | How long the published video is measured in seconds.                                             |
+| video_transcription_text| obj    | Transcribed text of the words spoken in the published video.                                      |
+| verified_status         | obj    | Indicates the status of the TikTok user who published the video in terms of their verification.   |
+| author_ban_status       | obj    | Indicates the status of the TikTok user who published the video in terms of their permissions.    |
+| video_view_count        | float  | The total number of times the published video has been viewed.                                    |
+| video_like_count        | float  | The total number of times the published video has been liked by other users.                      |
+| video_share_count       | float  | The total number of times the published video has been shared by other users.                     |
+| video_download_count    | float  | The total number of times the published video has been downloaded by other users.                 |
+| video_comment_count     | float  | The total number of comments on the published video.                                             |
 
 ### How to Use:
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory of interest.
 3. Follow the instructions in the project's README file to reproduce the analysis or view the results.
+
+
+
 
 
 
