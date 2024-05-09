@@ -63,13 +63,7 @@ The projects utilize the tiktok_dataset.csv dataset, containing synthetic data c
 2. Navigate to the project directory of interest.
 3. Follow the instructions in the project's README file to reproduce the analysis or view the results.
 
-### Additional Notes:
 
-[Include any additional notes or considerations about the projects or the certification program.]
-
-### Contact:
-
-[Your Name]: [Your Email Address]
 
 
 
