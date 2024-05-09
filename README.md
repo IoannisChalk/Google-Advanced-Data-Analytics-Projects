@@ -3,12 +3,12 @@
 To fulfill the requirements of the Google Advanced Data Analytics certification program, I completed a series of courses and corresponding projects. These projects demonstrate my practical proficiency in various aspects of data analytics.
 
 ### Courses Completed:
-
-1. Get started with Python: Basics of Python programming for data analysis.
-2. Go Beyond the Numbers: Translate Data into Insights: Advanced techniques for deriving insights from data.
-3. The power of statistics: Statistical methods for analysis and interpretation.
-4. Regression Analysis: Applied regression analysis techniques to model and analyze complex data relationships.
-5. Machine Learning Fundamentals: Introduction to machine learning algorithms using XGBoost and Random Forest with Cross Validation.
+1. Foundations of Data Science
+2. Get started with Python: Basics of Python programming for data analysis.
+3. Go Beyond the Numbers: Translate Data into Insights: Advanced techniques for deriving insights from data.
+4. The power of statistics: Statistical methods for analysis and interpretation.
+5. Regression Analysis: Applied regression analysis techniques to model and analyze complex data relationships.
+6. Machine Learning Fundamentals: Introduction to machine learning algorithms using XGBoost and Random Forest with Cross Validation.
 
 ## Projects main idea:
 
