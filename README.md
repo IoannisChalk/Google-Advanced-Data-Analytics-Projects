@@ -3,12 +3,67 @@
 To fulfill the requirements of the Google Advanced Data Analytics certification program, I completed a series of courses and corresponding projects. These projects demonstrate my practical proficiency in various aspects of data analytics.
 
 ### Courses Completed:
-1. Foundations of Data Science
-2. Get started with Python: Basics of Python programming for data analysis.
-3. Go Beyond the Numbers: Translate Data into Insights: Advanced techniques for deriving insights from data.
-4. The power of statistics: Statistical methods for analysis and interpretation.
-5. Regression Analysis: Applied regression analysis techniques to model and analyze complex data relationships.
-6. Machine Learning Fundamentals: Introduction to machine learning algorithms using XGBoost and Random Forest with Cross Validation.
+
+**Foundations of Data Science**
+-Introduction to data science and its significance in the modern world.
+-Understanding data types, data sources, and data quality.
+-Exploratory data analysis techniques.
+-Basic statistical concepts and measures.
+-Data cleaning and preprocessing techniques.
+-Introduction to data visualization.
+-Using Python libraries for data analysis (e.g., Pandas, NumPy).
+
+**Get Started With Python**
+-Gain a solid foundation in Python programming.
+-Learn how to write Python scripts and programs for data analysis tasks.
+-Understand Python's syntax, data structures, and control flow.
+-Familiarize yourself with popular Python libraries for data analysis.
+-Develop the ability to work with data in various formats and structures using Python.
+
+**Go Beyond the Numbers: Translate Data into Insights**
+-Learn techniques to analyze and interpret data effectively.
+-Applying statistical methods to analyze data and draw meaningful conclusions.
+-Develop skills to extract actionable insights from data.
+-Understand best practices for data storytelling and visualization.
+-Learn to effectively communicate data-driven insights to stakeholders.
+-Exploratory data analysis (EDA) techniques to uncover patterns and trends in data.
+-Data visualization principles and best practices.
+-Using storytelling techniques to communicate data insights effectively.
+-Presenting data-driven insights using clear and compelling visualizations.
+
+**Power of Statistics**
+-Gain a solid foundation in statistical concepts and methodologies.
+-Learn how to apply statistical techniques to analyze and interpret data.
+-Understand the role of statistics in data-driven decision making.
+-Develop skills to draw meaningful conclusions from data using statistical inference.
+-Introduction to statistical concepts and terminology.
+-Descriptive statistics: measures of central tendency and variability.
+-Probability distributions and hypothesis testing.
+-Confidence intervals and margin of error.
+-Statistical inference and significance testing.
+
+**Regression Analysis: Simplify Complex Data Relationships**
+-Learn regression analysis concepts and methodologies.
+-Understand how to build regression models to analyze and predict outcomes.
+-Gain practical skills in implementing regression models using appropriate tools.
+-Learn techniques to interpret and evaluate regression model results.
+-Introduction to regression analysis and its applications.
+-Simple linear regression and multiple linear regression techniques.
+-Model building, feature selection, and variable transformation.
+-Evaluating regression model performance and interpreting results.
+-Handling and addressing common challenges in regression analysis.
+
+**The Nuts and Bolts of Machine Learning**
+-Gain a solid understanding of machine learning principles and methodologies.
+-Learn how to apply machine learning algorithms to solve real-world problems.
+-Understand the different types of machine learning algorithms and their applications.
+-Develop skills in training, evaluating, and deploying machine learning models.
+-Introduction to machine learning concepts, supervised and unsupervised learning.
+-Types of machine learning algorithms: classification, regression, clustering, and dimensionality reduction.
+-Data preprocessing, feature engineering, and feature selection.
+-Model training, evaluation, and validation techniques.
+-Deploying machine learning models in production.
+
 
 ## Projects main idea:
 
