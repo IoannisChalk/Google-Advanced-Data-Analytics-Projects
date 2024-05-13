@@ -22,15 +22,15 @@ TikTok is working on the development of a predictive model that can determine wh
 
 ### Projects:
 
----
-[Project 2: Exploratory Data Analysis (EDA), Data Cleaning, and Visualization]
+
+##[Project 2: Exploratory Data Analysis (EDA), Data Cleaning, and Visualization]
 Description: This project encompasses the basics of Python programming for data analysis, focusing on exploratory data analysis (EDA), data cleaning, and visualization techniques. You will work with the TikTok claims data, performing tasks such as exploring the dataset, cleaning the data, and selecting appropriate visualization types to represent variables and relationships within the data effectively. The goal is to develop proficiency in Python programming while gaining practical experience in EDA, data cleaning, and visualization to communicate insights and patterns to the TikTok team.
 Skills Acquired: Python programming, data manipulation, data visualization, exploratory data analysis, data cleaning.
 Tools Used: Python, Pandas, Matplotlib, Seaborn.
 Outcome: By completing this project, you will develop proficiency in using Python for data analysis and visualization, while also gaining practical experience in exploratory data analysis, data cleaning, and visualization selection.
 Note: This project includes a Jupyter notebook and a summary PDF.
 
----
+
 
 [Project 3: Exploratory Data Analysis (EDA), Data Cleaning, and Visualization Sharing]
 Description: This project delves into advanced techniques for deriving insights from data using Python, with a focus on exploratory data analysis (EDA), data cleaning, and visualization sharing. You will continue with EDA and data cleaning tasks for the TikTok claims classification project, selecting and building appropriate visualization types to explore variables and relationships within the data. Additionally, you will share the results and findings with the TikTok team, ensuring effective communication of insights. The project aims to enhance your expertise in implementing advanced data analysis techniques and visualizations in Python while emphasizing the importance of clear communication of insights to stakeholders.
