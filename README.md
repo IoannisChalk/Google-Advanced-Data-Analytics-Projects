@@ -4,7 +4,7 @@ To fulfill the requirements of the Google Advanced Data Analytics certification 
 
 ### Courses Completed:
 
-**Foundations of Data Science**
+**1.Foundations of Data Science**
 -Introduction to data science and its significance in the modern world.
 -Understanding data types, data sources, and data quality.
 -Exploratory data analysis techniques.
@@ -13,14 +13,14 @@ To fulfill the requirements of the Google Advanced Data Analytics certification 
 -Introduction to data visualization.
 -Using Python libraries for data analysis (e.g., Pandas, NumPy).
 
-**Get Started With Python**
+**2.Get Started With Python**
 -Gain a solid foundation in Python programming.
 -Learn how to write Python scripts and programs for data analysis tasks.
 -Understand Python's syntax, data structures, and control flow.
 -Familiarize yourself with popular Python libraries for data analysis.
 -Develop the ability to work with data in various formats and structures using Python.
 
-**Go Beyond the Numbers: Translate Data into Insights**
+**3.Go Beyond the Numbers: Translate Data into Insights**
 -Learn techniques to analyze and interpret data effectively.
 -Applying statistical methods to analyze data and draw meaningful conclusions.
 -Develop skills to extract actionable insights from data.
@@ -31,7 +31,7 @@ To fulfill the requirements of the Google Advanced Data Analytics certification 
 -Using storytelling techniques to communicate data insights effectively.
 -Presenting data-driven insights using clear and compelling visualizations.
 
-**Power of Statistics**
+**4.Power of Statistics**
 -Gain a solid foundation in statistical concepts and methodologies.
 -Learn how to apply statistical techniques to analyze and interpret data.
 -Understand the role of statistics in data-driven decision making.
@@ -42,7 +42,7 @@ To fulfill the requirements of the Google Advanced Data Analytics certification 
 -Confidence intervals and margin of error.
 -Statistical inference and significance testing.
 
-**Regression Analysis: Simplify Complex Data Relationships**
+**5.Regression Analysis: Simplify Complex Data Relationships**
 -Learn regression analysis concepts and methodologies.
 -Understand how to build regression models to analyze and predict outcomes.
 -Gain practical skills in implementing regression models using appropriate tools.
@@ -53,7 +53,7 @@ To fulfill the requirements of the Google Advanced Data Analytics certification 
 -Evaluating regression model performance and interpreting results.
 -Handling and addressing common challenges in regression analysis.
 
-**The Nuts and Bolts of Machine Learning**
+**6.The Nuts and Bolts of Machine Learning**
 -Gain a solid understanding of machine learning principles and methodologies.
 -Learn how to apply machine learning algorithms to solve real-world problems.
 -Understand the different types of machine learning algorithms and their applications.
