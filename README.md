@@ -44,10 +44,6 @@ To put this knowledge into practice, I completed a final project where I built a
 
 **6.The Nuts and Bolts of Machine Learning**
 
-Ορίστε το συνδυασμένο κείμενο για το μάθημα "The Nuts and Bolts of Machine Learning" χωρίς τα bullet points και χωρίς επαναλήψεις:
-
-6. The Nuts and Bolts of Machine Learning
-
 In this course, I explored the core concepts of machine learning, learning the distinctions between supervised, unsupervised, reinforcement, and deep learning techniques. I developed a structured workflow for building machine learning models, focusing on crucial steps like data preparation, model selection, training, and evaluation.
 
 I gained hands-on experience in applying unsupervised learning techniques, including clustering and K-means, to identify patterns within data. I also worked extensively with supervised learning methods, using models such as decision trees, random forests, and gradient boosting, and evaluated their performance using various metrics.
