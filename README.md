@@ -5,13 +5,8 @@ To fulfill the requirements of the Google Advanced Data Analytics certification 
 ### Courses Completed:
 
 **1.Foundations of Data Science**
--Introduction to data science and its significance in the modern world.
--Understanding data types, data sources, and data quality.
--Exploratory data analysis techniques.
--Basic statistical concepts and measures.
--Data cleaning and preprocessing techniques.
--Introduction to data visualization.
--Using Python libraries for data analysis (e.g., Pandas, NumPy).
+Gained a solid understanding of the foundational concepts of data science, its history, and how it has evolved to become a critical tool for solving complex business problems. Learned about the impact of data today, how it is utilized in various industries, and the growing demand for data professionals.
+Explored the key skills and tools that data professionals use to manage, analyze, and interpret data, as well as how data-driven insights can be used to help organizations make informed decisions. I studied the PACE project workflow (Plan, Analyze, Construct, Execute) and its importance in organizing data projects.
 
 **2.Get Started With Python**
 -Gain a solid foundation in Python programming.
