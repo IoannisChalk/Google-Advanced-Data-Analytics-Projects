@@ -9,11 +9,13 @@ Gained a solid understanding of the foundational concepts of data science, its h
 Explored the key skills and tools that data professionals use to manage, analyze, and interpret data, as well as how data-driven insights can be used to help organizations make informed decisions. I studied the PACE project workflow (Plan, Analyze, Construct, Execute) and its importance in organizing data projects.
 
 **2.Get Started With Python**
--Gain a solid foundation in Python programming.
--Learn how to write Python scripts and programs for data analysis tasks.
--Understand Python's syntax, data structures, and control flow.
--Familiarize yourself with popular Python libraries for data analysis.
--Develop the ability to work with data in various formats and structures using Python.
+In this course, I gained a solid foundation in Python programming and its application in data analysis. I learned how to write Python scripts and programs to solve data analysis tasks and became familiar with Python's syntax, data structures, and control flow.
+
+I also worked extensively with Jupyter Notebooks for interactive coding, which allowed me to run code and visualize results seamlessly. Through hands-on practice, I gained experience in using variables and data types to store, organize, and manipulate data. I learned essential coding skills, including the use of functions and conditional statements to write clean and reusable code.
+
+Additionally, I explored loops for automating repetitive tasks and worked with string manipulation techniques such as slicing, indexing, and formatting. I investigated core Python data structures like lists, tuples, dictionaries, sets, and arrays, understanding how to use them effectively for data organization and management.
+
+Furthermore, I gained practical experience with popular Python libraries, such as NumPy and Pandas, which are essential for performing data manipulation and analysis. To demonstrate my skills, I completed a final project in which I applied my Python knowledge to solve a business problem using real datasets, drawing meaningful insights from the data.
 
 **3.Go Beyond the Numbers: Translate Data into Insights**
 -Learn techniques to analyze and interpret data effectively.
