@@ -18,15 +18,13 @@ Additionally, I explored loops for automating repetitive tasks and worked with s
 Furthermore, I gained practical experience with popular Python libraries, such as NumPy and Pandas, which are essential for performing data manipulation and analysis. To demonstrate my skills, I completed a final project in which I applied my Python knowledge to solve a business problem using real datasets, drawing meaningful insights from the data.
 
 **3.Go Beyond the Numbers: Translate Data into Insights**
--Learn techniques to analyze and interpret data effectively.
--Applying statistical methods to analyze data and draw meaningful conclusions.
--Develop skills to extract actionable insights from data.
--Understand best practices for data storytelling and visualization.
--Learn to effectively communicate data-driven insights to stakeholders.
--Exploratory data analysis (EDA) techniques to uncover patterns and trends in data.
--Data visualization principles and best practices.
--Using storytelling techniques to communicate data insights effectively.
--Presenting data-driven insights using clear and compelling visualizations.
+In this course, I developed proficiency in exploratory data analysis (EDA), learning techniques to identify and understand key patterns, trends, and insights within datasets. I gained hands-on experience in cleaning raw data by removing inconsistencies, errors, and outliers, a crucial step for ensuring accurate analysis.
+
+I studied the process of data validation and data joining, ensuring that datasets were complete and accurate for analysis. I also learned how to use Python for performing EDA tasks, including discovering patterns, sculpting data, and preparing it for deeper analysis.
+
+A significant part of the course involved creating data visualizations to present key insights clearly and compellingly. I used tools like Tableau, as well as Python libraries such as Matplotlib and Seaborn, to visualize data and communicate my findings effectively.
+
+Additionally, I focused on ethical and professional data storytelling, ensuring that insights were presented in a way that was both accessible and understandable for stakeholders.
 
 **4.Power of Statistics**
 -Gain a solid foundation in statistical concepts and methodologies.
