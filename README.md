@@ -64,11 +64,7 @@ TikTok is working on the development of a predictive model that can determine wh
 
 
 **[Project 2: Exploratory Data Analysis (EDA), Data Cleaning, and Visualization]** 
-Description: This project encompasses the basics of Python programming for data analysis, focusing on exploratory data analysis (EDA), data cleaning, and visualization techniques. Tasks include exploring the TikTok claims dataset, cleaning the data, and selecting appropriate visualization types to represent variables and relationships within the data effectively. The goal is to develop proficiency in Python programming while gaining practical experience in EDA, data cleaning, and visualization to communicate insights and patterns to the TikTok team.
-Skills Acquired: Python programming, data manipulation, data visualization, exploratory data analysis, data cleaning.
-Tools Used: Python, Pandas, Matplotlib, Seaborn.
-Outcome: By completing this project, proficiency in using Python for data analysis and visualization is developed, along with practical experience in exploratory data analysis, data cleaning, and visualization selection. 
-Note: This project includes a Jupyter notebook and a summary PDF.
+Description: The goal of this project was to prepare the TikTok claims dataset for analysis by gaining an understanding of the data, cleaning it, and performing initial exploratory data analysis (EDA). We began by constructing a dataframe in Python and conducting a cursory inspection of the dataset to compile summary information about its structure and content. We then identified key variables, such as claim_status, and analyzed their distribution. The dataset revealed a balanced number of claims (9,608) and opinions (9,476), which helped us understand the structure of the data. Additionally, we examined viewer engagement, focusing on video duration and view count. Our analysis showed that claims videos had higher mean and median view counts compared to opinions. These initial insights provided the foundation for the next phase of model development, guiding further exploration into variables and preparing us for hypothesis testing and statistical analysis.
 
 
 
