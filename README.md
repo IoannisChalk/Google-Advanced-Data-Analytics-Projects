@@ -43,14 +43,11 @@ I gained insight into key concepts in machine learning, such as overfitting, mod
 To put this knowledge into practice, I completed a final project where I built a regression model to analyze a real-world dataset, drawing actionable insights from the analysis.
 
 **6.The Nuts and Bolts of Machine Learning**
+In this course, I gained a solid understanding of machine learning principles and methodologies, focusing on both supervised and unsupervised learning techniques. I learned how to apply various machine learning algorithms to solve real-world problems, including classification, regression, and clustering tasks such as K-means.
 
-In this course, I explored the core concepts of machine learning, learning the distinctions between supervised, unsupervised, reinforcement, and deep learning techniques. I developed a structured workflow for building machine learning models, focusing on crucial steps like data preparation, model selection, training, and evaluation.
+I worked with popular machine learning algorithms like decision trees, random forests, XGBoost, gradient boosting, and ensembling techniques, gaining practical experience in training and evaluating these models. The course emphasized model validation and techniques to assess model accuracy, ensuring I could identify and prevent overfitting.
 
-I gained hands-on experience in applying unsupervised learning techniques, including clustering and K-means, to identify patterns within data. I also worked extensively with supervised learning methods, using models such as decision trees, random forests, and gradient boosting, and evaluated their performance using various metrics.
-
-The course emphasized model validation, where I learned to assess model accuracy and prevent overfitting to ensure reliable results. I also studied key techniques in data preprocessing, feature engineering, and feature selection to improve the performance of machine learning models.
-
-For the final project, I applied various machine learning models to a workplace scenario dataset, analyzing the data and providing actionable recommendations based on the insights drawn from the models.
+I also learned important data preprocessing techniques, including feature engineering and feature selection, to improve model performance. By the end of the course, I applied the skills I learned to a final project, where I used machine learning models, including K-means clustering, XGBoost, and ensembling methods, to analyze a workplace scenario dataset and provide actionable recommendations.
 
 
 ## Projects main idea:
