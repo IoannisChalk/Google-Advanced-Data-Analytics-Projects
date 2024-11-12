@@ -99,11 +99,13 @@ Based on these findings, the team recommends using video length as a key predict
 
 
 **[Project 6: Model Building, Evaluation, and Findings Summary]**
-Description: This project focuses on model building, evaluation, and findings summary within the TikTok data team, incorporating machine learning fundamentals. Model building for the claims classification project within TikTok's data team is carried out, utilizing machine learning algorithms such as XGBoost and Random Forest. Additionally, the performance of the developed model is evaluated through appropriate metrics and techniques, and the findings and insights derived from the model are summarized for cross-departmental stakeholders within TikTok. The project aims to reinforce understanding of machine learning fundamentals while emphasizing practical applications within the context of the TikTok claims classification project.
-Skills Acquired: Fundamentals of machine learning, model training and evaluation, predictive modeling, hyperparameter tuning.
-Tools Used: Python, Scikit-learn, XGBoost, Random Forest, Pandas, NumPy.
-Outcome: By completing this project, foundational knowledge of machine learning algorithms and techniques, including cross-validation for model evaluation and hyperparameter tuning, is acquired. Practical experience in model building, evaluation, and findings summary within a real-world project setting is also gained.
-Note: This project includes a Jupyter notebook and a summary PDF.
+In this project, the TikTok data team aimed to build a machine learning model to assist in the classification of videos as either claims or opinions. The goal of the model is to predict whether a TikTok video presents a claim or an opinion, which will help reduce the backlog of user reports and prioritize them more efficiently.
+
+To achieve this, the team built two tree-based classification models: Random Forest (RF) and XGBoost. Both models were used to predict the outcome on a held-out validation dataset, and the model with the best recall score was selected. The final model was then used to score a test dataset to estimate future performance.
+
+Both the RF and XGBoost models performed exceptionally well, with the RF model achieving a recall score of 0.995. The model showed only five misclassified samples out of 3,817 in the test dataset, indicating excellent performance. The primary predictors for the model were related to video engagement levels, such as video view count, like count, share count, and download count. These features accounted for nearly all the predictive signal in the data, with higher engagement levels being strongly associated with claim videos. In fact, no opinion video had more than 10,000 views.
+
+The model performed exceptionally well, and before deployment, the team recommends further evaluation using additional subsets of user data to ensure its robustness. They also suggest monitoring the distributions of video engagement levels to ensure that the model remains effective despite fluctuations in its most predictive features.
 
 
 
