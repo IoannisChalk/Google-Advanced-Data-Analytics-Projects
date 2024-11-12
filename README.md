@@ -79,11 +79,13 @@ As part of the project, visualizations were created using Python (Matplotlib and
 
 
 **[Project 4: Data Exploration and Hypothesis Testing]**
-Description: This project combines data exploration and hypothesis testing techniques for the TikTok classification project. The project data is further explored to uncover patterns and relationships, followed by the implementation of hypothesis tests to validate assumptions or investigate specific research questions. Additionally, insights and findings are communicated with stakeholders within TikTok, ensuring clear and concise reporting. The project aims to demonstrate knowledge of statistical analysis, hypothesis testing, and Python programming while emphasizing effective communication of insights to stakeholders.
-Skills Acquired: Statistical analysis, hypothesis testing, Python programming, data exploration.
-Tools Used: Python, Pandas, Matplotlib, Seaborn, Scipy.
-Outcome: By completing this project, knowledge of preparing, creating, and analyzing hypothesis tests is demonstrated, along with practical experience in data exploration and hypothesis testing techniques.
-Note: This project includes a Jupyter notebook and a summary PDF.
+In this project, the TikTok data team focused on hypothesis testing to analyze the relationship between verified account status and video view count. The goal was to determine if there were significant differences in video engagement based on account verification status.
+
+The analysis began by calculating the mean video view counts for verified and unverified accounts, revealing a substantial difference: unverified accounts had an average of 265,663 views compared to 91,439 views for verified accounts. To further validate these findings, a two-sample hypothesis test was conducted. This test confirmed that the observed differences in video views between the two groups were statistically significant and reflected real differences in the broader population.
+
+These findings suggest that verified and unverified accounts exhibit different patterns of user engagement. The team speculated that unverified accounts might either post more engaging content or be associated with spam bots that artificially inflate view counts.
+
+Based on these insights, the team recommended proceeding with the development of a regression model that incorporates verified status to further investigate user behavior. This analysis will inform the design of the claim classification model by considering how verified status impacts video engagement.
 
 
 
