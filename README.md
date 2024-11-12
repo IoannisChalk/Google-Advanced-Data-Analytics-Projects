@@ -90,11 +90,11 @@ Based on these insights, the team recommended proceeding with the development of
 
 
 **[Project 5: Regression Model Building for Claims Classification]**
-Description: This project involves applying regression analysis techniques to develop a regression model for the TikTok claims classification data. The appropriate type of regression model is determined based on the project requirements, and TikTok's claim classification data is utilized to build and train the regression model. The goal is to develop proficiency in regression modeling while addressing the specific needs of the TikTok claims classification project.
-Skills Acquired: Regression modeling, interpretation of regression results, data visualization.
-Tools Used: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn.
-Outcome: By completing this project, proficiency in regression analysis is developed, and insights into complex data relationships are gained, specifically within the context of the TikTok claims classification project.
-Note: This project includes a Jupyter notebook and a summary PDF.
+In this project, the TikTok data team aimed to build a logistic regression model to predict a user's verified status, as verified users are more likely to post opinion videos. This model serves as a precursor to a claims vs. opinion classification model, helping the team better understand how video characteristics correlate with verified users.
+
+The logistic regression model was constructed using various video features, and the results showed that video length was significantly associated with the likelihood of a user being verified, with longer videos correlating to higher odds of a user being verified. Other video features, such as likes, views, and comments, showed a weak association with verified status. The model achieved a precision of 69%, a recall of 66%, and an F1 accuracy of 66%, which indicates a moderately good ability to predict verified status.
+
+Based on these findings, the team recommends using video length as a key predictor in future classification models. The next step involves using the insights gained from this regression model to build a classification model to distinguish between claim and opinion videos, ultimately assisting TikTok in more efficiently managing user submissions.
 
 
 
