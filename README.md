@@ -27,15 +27,13 @@ A significant part of the course involved creating data visualizations to presen
 Additionally, I focused on ethical and professional data storytelling, ensuring that insights were presented in a way that was both accessible and understandable for stakeholders.
 
 **4.Power of Statistics**
--Gain a solid foundation in statistical concepts and methodologies.
--Learn how to apply statistical techniques to analyze and interpret data.
--Understand the role of statistics in data-driven decision making.
--Develop skills to draw meaningful conclusions from data using statistical inference.
--Introduction to statistical concepts and terminology.
--Descriptive statistics: measures of central tendency and variability.
--Probability distributions and hypothesis testing.
--Confidence intervals and margin of error.
--Statistical inference and significance testing.
+In this course, I acquired foundational knowledge in statistics, learning to distinguish between descriptive and inferential statistics. I developed the ability to summarize datasets using descriptive statistics, measuring central tendency, spread, and the relative position of data.
+
+I gained expertise in probability theory, including Bayes' theorem, and explored various probability distributions, such as binomial, Poisson, and normal distributions. I also studied sampling methods to draw valid conclusions from sample data, minimizing sampling bias, and using sampling distributions to make accurate estimates.
+
+Additionally, I learned how to calculate and interpret confidence intervals, providing a measure of uncertainty in estimates. I also studied hypothesis testing, including t-tests and Chi-squared tests, to assess statistical significance and determine whether results were due to chance.
+
+To apply these statistical techniques, I completed a final project where I analyzed a workplace dataset using the methods learned throughout the course.
 
 **5.Regression Analysis: Simplify Complex Data Relationships**
 -Learn regression analysis concepts and methodologies.
