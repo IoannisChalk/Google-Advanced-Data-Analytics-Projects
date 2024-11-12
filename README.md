@@ -70,11 +70,11 @@ Description: The goal of this project was to prepare the TikTok claims dataset f
 
 
 **[Project 3: Exploratory Data Analysis (EDA), Data Cleaning, and Visualization Sharing]**
-Description: This project delves into advanced techniques for deriving insights from data using Python, with a focus on exploratory data analysis (EDA), data cleaning, and visualization sharing. EDA and data cleaning tasks for the TikTok claims classification project are continued, with the selection and building of appropriate visualization types to explore variables and relationships within the data. Additionally, the results and findings are shared with the TikTok team, ensuring effective communication of insights. The project aims to enhance expertise in implementing advanced data analysis techniques and visualizations in Python while emphasizing the importance of clear communication of insights to stakeholders.
-Skills Acquired: Advanced data analysis techniques, data visualization, Python programming, exploratory data analysis, data cleaning.
-Tools Used: Python, Pandas, Matplotlib, Seaborn.
-Outcome: By completing this project, expertise in implementing advanced data analysis techniques and visualizations in Python is gained, along with skills in exploratory data analysis, data cleaning, and effective communication of insights.
-Note: This project includes a Jupyter notebook and a summary PDF.
+In this project, we continued to explore and clean the TikTok claims dataset, with a focus on understanding the variables and relationships within the data. A key objective was to examine how user engagement metrics, such as video view count, like count, and comment count, influence the classification of videos as claims or opinions. During the exploratory data analysis, we found that the majority of videos had low engagement, with a skewed distribution in both view and like counts. Specifically, more than half of the videos had fewer than 100,000 views, and a similar pattern was observed with likes. Furthermore, the comment count variable was also heavily right-skewed, with most videos receiving fewer than 100 comments.
+
+Additionally, we discovered over 200 null values across seven different columns, which highlighted the need for future analysis to address missing data in model development. These findings, including the imbalance in the number of claims and opinion videos, and the skewed data distribution, were important considerations for the machine learning model. The data's characteristics, including its null values and skewness, will influence model selection and help shape future predictions.
+
+As part of the project, visualizations were created using Python (Matplotlib and Seaborn) and Tableau, showcasing key data insights like the distribution of claims versus opinions, and providing clear visualizations of user engagement metrics. These visualizations are intended to support the TikTok team’s decision-making and guide the next steps in model development.
 
 
 
