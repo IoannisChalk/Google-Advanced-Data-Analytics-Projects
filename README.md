@@ -36,15 +36,11 @@ Additionally, I learned how to calculate and interpret confidence intervals, pro
 To apply these statistical techniques, I completed a final project where I analyzed a workplace dataset using the methods learned throughout the course.
 
 **5.Regression Analysis: Simplify Complex Data Relationships**
--Learn regression analysis concepts and methodologies.
--Understand how to build regression models to analyze and predict outcomes.
--Gain practical skills in implementing regression models using appropriate tools.
--Learn techniques to interpret and evaluate regression model results.
--Introduction to regression analysis and its applications.
--Simple linear regression and multiple linear regression techniques.
--Model building, feature selection, and variable transformation.
--Evaluating regression model performance and interpreting results.
--Handling and addressing common challenges in regression analysis.
+In this course, I developed a strong understanding of building regression models, including both linear and logistic regression, and how to use them to describe complex data relationships. I learned to build and interpret simple linear regression models, as well as advanced multiple linear regression models, to identify correlations between variables.
+
+I gained insight into key concepts in machine learning, such as overfitting, model selection, and the bias-variance tradeoff, all of which are critical when working with regression models. I also applied statistical tests like Chi-squared and ANOVA (Analysis of Variance) to assess relationships in categorical data. Additionally, I explored binomial logistic regression for classifying data into two categories.
+
+To put this knowledge into practice, I completed a final project where I built a regression model to analyze a real-world dataset, drawing actionable insights from the analysis.
 
 **6.The Nuts and Bolts of Machine Learning**
 -Gain a solid understanding of machine learning principles and methodologies.
